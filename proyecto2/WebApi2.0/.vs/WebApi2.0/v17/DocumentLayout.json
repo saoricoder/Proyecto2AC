@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\data\\tallerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\data\\tallerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\webapi2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\webapi2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,42 +38,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TallerData.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\TallerData.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Data\\TallerData.cs",
               "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\TallerData.cs",
               "RelativeToolTip": "WebApi2.0\\Data\\TallerData.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T20:02:36.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\Conexion.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Data\\Conexion.cs",
               "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\Conexion.cs",
               "RelativeToolTip": "WebApi2.0\\Data\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T20:02:19.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WebApi2.0",
+              "DocumentIndex": 5,
+              "Title": "WebApi2.0.csproj",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\WebApi2.0.csproj",
               "RelativeDocumentMoniker": "WebApi2.0\\WebApi2.0.csproj",
               "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\WebApi2.0.csproj",
               "RelativeToolTip": "WebApi2.0\\WebApi2.0.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-12T20:01:53.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T20:01:53.774Z"
             },
             {
               "$type": "Document",
@@ -83,14 +82,14 @@
               "RelativeDocumentMoniker": "WebApi2.0\\Program.cs",
               "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Program.cs",
               "RelativeToolTip": "WebApi2.0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T19:21:08.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Taller.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\models\\Taller.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\models\\Taller.cs",
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "WebApi2.0\\Controllers\\TallerController.cs",
               "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Controllers\\TallerController.cs",
               "RelativeToolTip": "WebApi2.0\\Controllers\\TallerController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T19:06:45.553Z",
               "EditorCaption": ""

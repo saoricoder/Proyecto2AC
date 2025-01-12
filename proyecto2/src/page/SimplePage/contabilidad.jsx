@@ -48,7 +48,9 @@ export function SimpleContabilidad() {
             onChange={(e) => setNombre(e.target.value)}
           />
         </div>
-        <input className="insertar_button" type="submit" value="Insertar" />
+        <div className="item_contabilidad">
+          <input className="insertar_button" type="submit" value="Insertar" />
+        </div>
       </form>
       {error && <p className="error">Todos los campos son obligatorios</p>}
       {exito && <p className="exito">Registro exitoso</p>}
