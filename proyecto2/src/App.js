@@ -1,4 +1,4 @@
-import { Formulario } from "./moduls/page/Formulario";
+import { Formulario } from "./moduls/Formulario";
 import "./App.css";
 
 function App() {
