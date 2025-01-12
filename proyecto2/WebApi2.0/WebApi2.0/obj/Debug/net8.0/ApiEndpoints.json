@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "WebApi2._0.Controllers.TallerController",
+    "Method": "Get",
+    "RelativePath": "api/Taller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebApi2._0.models.Taller, WebApi2.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi2._0.Controllers.TallerController",
+    "Method": "Post",
+    "RelativePath": "api/Taller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Otaller",
+        "Type": "WebApi2._0.models.Taller",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi2._0.Controllers.TallerController",
+    "Method": "Get",
+    "RelativePath": "api/Taller/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApi2._0.models.Taller",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi2._0.Controllers.TallerController",
+    "Method": "Put",
+    "RelativePath": "api/Taller/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "oTaller",
+        "Type": "WebApi2._0.models.Taller",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi2._0.Controllers.TallerController",
+    "Method": "Delete",
+    "RelativePath": "api/Taller/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

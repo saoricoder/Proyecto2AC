@@ -1,7 +1,3 @@
-
-
-
-
 export function Formulario() {
   return (
     <div className="container">
