@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import "../css/formulario.css";
 export function Formulario() {
   const { usuario, setUsuario } = useState("");
   const { password, setPassword } = useState("");

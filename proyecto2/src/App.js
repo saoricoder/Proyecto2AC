@@ -1,9 +1,14 @@
 import { Formulario } from "./page/Formulario";
 import "./App.css";
-import { SimpleContabilidad } from "./page/SimplePage/contabilidad";
+import { MenuHeader } from "./moduls/Menu_header";
 
 function App() {
-  return <div className="App">{<Formulario />}</div>;
+  return (
+    <div className="App">
+      <MenuHeader />
+      <Formulario />
+    </div>
+  );
 }
 
 export default App;

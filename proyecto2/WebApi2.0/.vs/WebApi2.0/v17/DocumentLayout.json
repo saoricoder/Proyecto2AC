@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\data\\tallerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\data\\tallerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|c:\\users\\angelus\\documents\\programer\\proyecto2ac\\proyecto2\\webapi2.0\\webapi2.0\\controllers\\seleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CB6BF2F-7D3D-4948-AEE5-EF4AD4AAE031}|WebApi2.0\\WebApi2.0.csproj|solutionrelative:webapi2.0\\controllers\\seleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,19 +75,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "WebApi2.0\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\Conexion.cs",
+              "RelativeToolTip": "WebApi2.0\\Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:14:13.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TallerData.cs",
+              "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\TallerData.cs",
+              "RelativeDocumentMoniker": "WebApi2.0\\Data\\TallerData.cs",
+              "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\TallerData.cs",
+              "RelativeToolTip": "WebApi2.0\\Data\\TallerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:11:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SeleccionController.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Controllers\\SeleccionController.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Controllers\\SeleccionController.cs",
               "ToolTip": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Controllers\\SeleccionController.cs",
               "RelativeToolTip": "WebApi2.0\\Controllers\\SeleccionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T01:05:53.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NominaController.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Controllers\\NominaController.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Controllers\\NominaController.cs",
@@ -87,12 +121,11 @@
               "RelativeToolTip": "WebApi2.0\\Controllers\\NominaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:05:34.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:05:34.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ContabilidadController.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Controllers\\ContabilidadController.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Controllers\\ContabilidadController.cs",
@@ -100,12 +133,11 @@
               "RelativeToolTip": "WebApi2.0\\Controllers\\ContabilidadController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:05:09.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:05:09.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BibliotecaController.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Controllers\\BibliotecaController.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Controllers\\BibliotecaController.cs",
@@ -113,12 +145,11 @@
               "RelativeToolTip": "WebApi2.0\\Controllers\\BibliotecaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:04:47.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:04:47.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BibliotecaData.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\BibliotecaData.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Data\\BibliotecaData.cs",
@@ -126,12 +157,11 @@
               "RelativeToolTip": "WebApi2.0\\Data\\BibliotecaData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:03:18.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:03:18.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ContabilidadData.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\ContabilidadData.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Data\\ContabilidadData.cs",
@@ -139,12 +169,11 @@
               "RelativeToolTip": "WebApi2.0\\Data\\ContabilidadData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:03:01.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:03:01.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SeleccionData.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\SeleccionData.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Data\\SeleccionData.cs",
@@ -152,12 +181,11 @@
               "RelativeToolTip": "WebApi2.0\\Data\\SeleccionData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:01:03.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:01:03.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UsuariosData.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\Data\\UsuariosData.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\Data\\UsuariosData.cs",
@@ -165,12 +193,11 @@
               "RelativeToolTip": "WebApi2.0\\Data\\UsuariosData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T01:00:38.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T01:00:38.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Seleccion.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\models\\Seleccion.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\models\\Seleccion.cs",
@@ -178,12 +205,11 @@
               "RelativeToolTip": "WebApi2.0\\models\\Seleccion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:58:30.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:58:30.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Contabilidad.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\models\\Contabilidad.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\models\\Contabilidad.cs",
@@ -191,12 +217,11 @@
               "RelativeToolTip": "WebApi2.0\\models\\Contabilidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:56:42.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:56:42.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Nomina.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\models\\Nomina.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\models\\Nomina.cs",
@@ -204,12 +229,11 @@
               "RelativeToolTip": "WebApi2.0\\models\\Nomina.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:55:44.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:55:44.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Biblioteca.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\models\\Biblioteca.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\models\\Biblioteca.cs",
@@ -217,12 +241,11 @@
               "RelativeToolTip": "WebApi2.0\\models\\Biblioteca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:55:28.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:55:28.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\Angelus\\Documents\\Programer\\Proyecto2AC\\proyecto2\\WebApi2.0\\WebApi2.0\\models\\Usuarios.cs",
               "RelativeDocumentMoniker": "WebApi2.0\\models\\Usuarios.cs",
@@ -230,8 +253,7 @@
               "RelativeToolTip": "WebApi2.0\\models\\Usuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:54:47.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:54:47.527Z"
             }
           ]
         }
