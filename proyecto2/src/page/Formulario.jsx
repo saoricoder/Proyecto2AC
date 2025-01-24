@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
+
 import "../css/formulario.css";
 export function Formulario() {
   const { usuario, setUsuario } = useState("");
@@ -18,12 +19,15 @@ export function Formulario() {
     setPassword("");
     setUsuario("");
   };
-
+  window.onload = function () {
+    document.getElementsByName("usuario")[0].value = "";
+    document.getElementsByName("password")[0].value = "";
+  };
   return (
     <div className="container">
       <h1>Inicio de Sesion</h1>
       <div className="container_form">
-        <form className="form_login" onSubmit={handleSubmit}>
+        <form className="form_login" onSubmit={handleSubmit} autoComplete="off">
           <div className="item_login">
             <label htmlFor="usuario" className="item_title">
               Usuario
@@ -34,6 +38,7 @@ export function Formulario() {
               name="usuario"
               value={usuario}
               onChange={(e) => setUsuario(e.target.value)}
+              autoComplete="off"
             />
           </div>
           <div className="item_login">

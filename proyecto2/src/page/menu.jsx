@@ -1,16 +1,25 @@
 import { MenuHeader } from "../moduls/Menu_header";
+import { Link } from "react-router-dom";
 
-function Menu() {
+export function Menu() {
   return (
     <div className="container">
-      <MenuHeader />
+      <MenuHeader title1="Home" link1="/" title2="Cerrar Sesion" link2="/" />
       <h1>Menu</h1>
       <div className="container_menu">
         <ul className="menu">
-          <li className="menu_item">Biblioteca</li>
-          <li className="menu_item">Contabilidad</li>
-          <li className="menu_item">Nomina</li>
-          <li className="menu_item">Seleccion</li>
+          <li className="menu_item">
+            <Link to="/biblioteca">Biblioteca</Link>
+          </li>
+          <li className="menu_item">
+            <Link to="/contabilidad">Contabilidad</Link>
+          </li>
+          <li className="menu_item">
+            <Link to="/nomina">Nomina</Link>
+          </li>
+          <li className="menu_item">
+            <Link to="/seleccion">Seleccion</Link>
+          </li>
         </ul>
       </div>
     </div>

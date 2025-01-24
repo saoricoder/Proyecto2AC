@@ -1,9 +1,16 @@
-.item_login {
+.item_header {
   display: flex;
   justify-content: center;
   width: 100%;
   height: 15%;
   font-size: 16px;
+  background: #a9a9a9;
+  margin: 0;
+  border-radius: 0 0 10px 10px;
+  -webkit-border-radius: 0 0 10px 10px;
+  -moz-border-radius: 0 0 10px 10px;
+  -ms-border-radius: 0 0 10px 10px;
+  -o-border-radius: 0 0 10px 10px;
 }
 .item_container {
   display: flex;
@@ -23,7 +30,8 @@
   flex-direction: row;
 }
 .item_menu {
-  background-color: aqua;
+  background-color: #1a3c7d;
+  color: #a9a9a9;
   border-radius: 5px;
   padding: 0.5em 1em;
   margin: 0 1em 0 0;
@@ -37,4 +45,9 @@
 .title_header {
   width: 100%;
   font-size: 1.5rem;
+  color: #1a3c7d;
+}
+a {
+  text-decoration: none;
+  color: azure;
 }
